@@ -1,5 +1,5 @@
 /* Google fonts import */
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -88,6 +88,7 @@ main {
     background-color: lightblue;
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 
